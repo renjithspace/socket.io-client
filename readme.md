@@ -1,4 +1,4 @@
-# Socket.io browser
+# Socket.io client
 Connect socket.io server from client side end
 
 #### Setup
